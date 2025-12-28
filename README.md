@@ -1,8 +1,8 @@
 #  💫 DDOS Panel 2024 💥
-Best 10 Methods are added in this panel. 100% Free DDos panel by STLP Team
+Best 10 Methods are added in this panel. 100% Free DDos panel by TEOT-TEAM
 
 
-<center><img src="ss1.png" alt="STLP-TEAM" height="150" width="400"></img></center></br>
+<center><img src="ss1.png" alt="TEOT-TEAM" height="150" width="400"></img></center></br>
 
 ## Methods:
 * TLS - POWERFUL TLS METHOD
@@ -47,18 +47,18 @@ pkg update -y;pkg upgrade -y;pkg install git -y;pkg install python -y;pkg instal
 
 
 <h3>DEMO SS:</h3>
-<center><img src="ss2.png" alt="STLP-TEAM" height="900" width="500"></img></center></br>
+<center><img src="ss2.png" alt="TEOT-TEAM" height="900" width="500"></img></center></br>
 
 ## Find Us on :
 
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://facebook.com/groups/spamming.termux.learning.point)
-[![Page](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/Spamming.Termux.Learning.Point)
-[![Telegram](https://img.shields.io/badge/Chat-Teligram-blue?style=for-the-badge&logo=teligram)](https://t.me/STLP_Team)
-[![Github](https://img.shields.io/badge/Github-Github-143green?style=for-the-badge&logo=github)](https://github.com/STLP-TEAM)
+[![Facebook](https://www.facebook.com/share/1GALLLpKV2/)](https://facebook.com/groups/spamming.termux.learning.point)
+[![Page]https://www.facebook.com/share/1GALLLpKV2/()
+[![Telegram](https://www.facebook.com/share/1GALLLpKV2/)]()
+[![Github](https://www.facebook.com/share/1GALLLpKV2/)]()
 
 
-<b><br>Thanks to SAITAMA,leoon123,Zxcr9999 </b>
+<b><br>Thanks to TEOT-TEAM 
 
 <br>
-<h3><a href="https://facebook.com/groups/spamming.termux.learning.point/"> ©️STLP-TEAM</a></h3>
+<h3b<a <h3>=a href="https://www.facebook.com/share/1GALLLpKV2/ ©️TEOT-TEAM></h3>
 
