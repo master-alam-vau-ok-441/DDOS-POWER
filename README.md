@@ -1,4 +1,4 @@
-#  💫 DDOS Panel 2024 💥
+#  💫 DDOS Panel 2025 💥
 Best 10 Methods are added in this panel. 100% Free DDos panel by TEOT-TEAM
 
 
