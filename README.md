@@ -47,11 +47,11 @@ pkg update -y;pkg upgrade -y;pkg install git -y;pkg install python -y;pkg instal
 
 
 <h3>DEMO SS:</h3>
-<center><img src="ss2.png" alt="TEOT-TEAM" height="900" width="500"></img></center></br>
+<center><img src="TEOT-TEAM.png" alt="TEOT-TEAM" height="900" width="500"></img></center></br>
 
 ## Find Us on :
 
-[![Facebook](https://www.facebook.com/share/1GALLLpKV2/)](https://facebook.com/groups/spamming.termux.learning.point)
+[![Facebook](https://www.facebook.com/share/1GALLLpKV2/)]()
 [![Page]https://www.facebook.com/share/1GALLLpKV2/()
 [![Telegram](https://www.facebook.com/share/1GALLLpKV2/)]()
 [![Github](https://www.facebook.com/share/1GALLLpKV2/)]()
