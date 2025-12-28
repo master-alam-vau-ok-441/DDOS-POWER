@@ -32,8 +32,8 @@ pkg install perl -y
 pkg install nodejs -y
 pip install requests socket datetime colorama socks pysocks
 cd && rm -rf DDOS
-git clone https://github.com/STLP-TEAM/DDOS
-cd DDOS
+git clone https://github.com/master-alam-vau-ok-441/DDOS-POWER.git
+cd DDOS-POWER
 chmod 777 *
 python attack.py
 ```
@@ -42,7 +42,7 @@ python attack.py
 <h3>SINGLE COMMAND:</h3>
 
 ```
-pkg update -y;pkg upgrade -y;pkg install git -y;pkg install python -y;pkg install golang -y;pkg install perl -y;pkg install nodejs -y;pip install requests socket datetime colorama socks pysocks;cd && rm -rf DDOS;git clone https://github.com/STLP-TEAM/DDOS;cd DDOS;chmod 777 *;python attack.py
+pkg update -y;pkg upgrade -y;pkg install git -y;pkg install python -y;pkg install golang -y;pkg install perl -y;pkg install nodejs -y;pip install requests socket datetime colorama socks pysocks;cd && rm -rf DDOS;git clone https://github.com/master-alam-vau-ok-441/DDOS-POWER.git;cd DDOS-POWER;chmod 777 *;python attack.py
 ```
 
 
