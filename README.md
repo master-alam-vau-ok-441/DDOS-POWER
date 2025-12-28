@@ -2,7 +2,7 @@
 Best 10 Methods are added in this panel. 100% Free DDos panel by TEOT-TEAM
 
 
-<center><img src="ss1.png" alt="TEOT-TEAM" height="150" width="400"></img></center></br>
+<center><img src="TEOT-TEAM.png" alt="TEOT-TEAM" height="150" width="400"></img></center></br>
 
 ## Methods:
 * TLS - POWERFUL TLS METHOD
